@@ -1,0 +1,12 @@
+{"ts": "2026-10-11T00:48:54", "agent": "finsight_orchestrator", "event": "tool_call", "tool": "create_research_plan", "args": {"length": "standard", "fresh_days": 30, "risk_focus": false, "query": "news for microsoft"}}
+{"ts": "2026-10-11T00:48:54", "agent": "finsight_orchestrator", "event": "tool_result", "tool": "create_research_plan", "summary": {"status": "ok", "intent": "company", "topic": null, "completion_criteria": "Every material claim cites >=1 record ID; conflicts, stale and missing data are visible; human approval obtained.", "freshness_days": 30}, "evidence_ids": []}
+{"ts": "2026-10-11T00:49:58", "agent": "finsight_orchestrator", "event": "tool_call", "tool": "record_review_decision", "args": {"action": "approved", "detail": "Approved with bullet point preference", "gate": "1 Plan approval"}}
+{"ts": "2026-10-11T00:49:58", "agent": "finsight_orchestrator", "event": "tool_result", "tool": "record_review_decision", "summary": {"status": "ok"}, "evidence_ids": []}
+{"ts": "2026-10-11T00:49:59", "agent": "finsight_orchestrator", "event": "tool_call", "tool": "research_team", "args": {"request": "news for microsoft"}}
+{"ts": "2026-10-11T00:50:01", "agent": "finsight_orchestrator", "event": "tool_result", "tool": "research_team", "summary": "Microsoft Profile: Technology sector, USA, Market Cap $3100B.\nEarnings Record: E008 (2026-Q2) - Revenue growth 0.4%, EPS growth -2.9%, management cautious on costs.\nAnalyst Record: R004 (2026-09-26) -", "evidence_ids": []}
+{"ts": "2026-10-11T00:50:02", "agent": "finsight_orchestrator", "event": "tool_call", "tool": "review_evidence", "args": {"remove_ids": []}}
+{"ts": "2026-10-11T00:50:02", "agent": "finsight_orchestrator", "event": "tool_result", "tool": "review_evidence", "summary": {"status": "ok", "kept": 5}, "evidence_ids": ["N019", "N024", "N021", "E008", "R004"]}
+{"ts": "2026-10-11T00:52:27", "agent": "finsight_orchestrator", "event": "tool_call", "tool": "review_evidence", "args": {"remove_ids": []}}
+{"ts": "2026-10-11T00:52:27", "agent": "finsight_orchestrator", "event": "tool_result", "tool": "review_evidence", "summary": {"status": "ok", "kept": 5}, "evidence_ids": ["N019", "N024", "N021", "E008", "R004"]}
+{"ts": "2026-10-11T00:52:28", "agent": "finsight_orchestrator", "event": "tool_call", "tool": "analysis_team", "args": {"request": "news for microsoft"}}
+{"ts": "2026-10-11T00:52:33", "agent": "finsight_orchestrator", "event": "tool_result", "tool": "analysis_team", "summary": "PASS", "evidence_ids": []}

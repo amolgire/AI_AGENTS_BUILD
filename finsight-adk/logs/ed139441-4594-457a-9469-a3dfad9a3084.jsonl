@@ -1,0 +1,4 @@
+{"ts": "2026-10-11T00:38:57", "agent": "company_research_agent", "event": "tool_call", "tool": "fetch_company_data", "args": {}}
+{"ts": "2026-10-11T00:38:57", "agent": "company_research_agent", "event": "tool_result", "tool": "fetch_company_data", "summary": {"status": "ok", "count": 2}, "evidence_ids": ["E002", "R001"]}
+{"ts": "2026-10-11T00:38:57", "agent": "news_research_agent", "event": "tool_call", "tool": "fetch_news", "args": {}}
+{"ts": "2026-10-11T00:38:57", "agent": "news_research_agent", "event": "tool_result", "tool": "fetch_news", "summary": {"status": "ok", "count": 5}, "evidence_ids": ["N001", "N003", "N005", "N004", "N073"]}

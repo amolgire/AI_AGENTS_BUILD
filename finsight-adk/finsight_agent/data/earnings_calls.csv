@@ -1,0 +1,25 @@
+call_id,company_id,quarter,revenue_growth_pct,eps_growth_pct,management_message
+E001,C01,2026-Q1,8.1,0.3,Management upbeat on AI investment
+E002,C01,2026-Q2,5.8,15.7,Management upbeat on AI investment
+E003,C02,2026-Q1,11.3,-4.9,Management cautious on costs
+E004,C02,2026-Q2,3.3,-2.9,Management cautious on costs
+E005,C03,2026-Q1,6.8,4.3,Management upbeat on AI investment
+E006,C03,2026-Q2,-1.8,-4.2,Management cautious on costs
+E007,C04,2026-Q1,11.4,8.0,Management upbeat on AI investment
+E008,C04,2026-Q2,0.4,-2.9,Management cautious on costs
+E009,C05,2026-Q1,1.4,-0.0,Management upbeat on AI investment
+E010,C05,2026-Q2,-0.4,12.7,Management upbeat on AI investment
+E011,C06,2026-Q1,12.8,-0.3,Management cautious on costs
+E012,C06,2026-Q2,0.6,13.2,Management upbeat on AI investment
+E013,C07,2026-Q1,9.8,2.0,Management upbeat on AI investment
+E014,C07,2026-Q2,12.9,13.3,Management upbeat on AI investment
+E015,C08,2026-Q1,10.6,-3.4,Management cautious on costs
+E016,C08,2026-Q2,12.0,14.6,Management upbeat on AI investment
+E017,C09,2026-Q1,2.9,13.1,Management upbeat on AI investment
+E018,C09,2026-Q2,1.6,-5.4,Management cautious on costs
+E019,C10,2026-Q1,11.8,17.2,Management upbeat on AI investment
+E020,C10,2026-Q2,2.5,9.4,Management upbeat on AI investment
+E021,C11,2026-Q1,13.0,-3.2,Management cautious on costs
+E022,C11,2026-Q2,13.5,-1.7,Management cautious on costs
+E023,C12,2026-Q1,5.0,11.5,Management upbeat on AI investment
+E024,C12,2026-Q2,3.0,8.5,Management upbeat on AI investment

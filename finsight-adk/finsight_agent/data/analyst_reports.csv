@@ -1,0 +1,13 @@
+report_id,company_id,date,rating,target_price,risk_level,summary
+R001,C01,2026-10-05,Sell,296,Low,Synthetic analyst view for Apple.
+R002,C02,2026-10-02,Sell,306,Medium,Synthetic analyst view for JPMorgan.
+R003,C03,2026-10-03,Hold,98,High,Synthetic analyst view for Goldman Sachs.
+R004,C04,2026-09-26,Buy,263,Medium,Synthetic analyst view for Microsoft.
+R005,C05,2026-09-18,Sell,159,Medium,Synthetic analyst view for HSBC.
+R006,C06,2026-09-24,Buy,171,Low,Synthetic analyst view for Citigroup.
+R007,C07,2026-09-30,Hold,161,High,Synthetic analyst view for Deutsche Bank.
+R008,C08,2026-10-01,Hold,259,Low,Synthetic analyst view for BNP Paribas.
+R009,C09,2026-09-25,Hold,222,Low,Synthetic analyst view for NVIDIA.
+R010,C10,2026-09-16,Sell,249,Medium,Synthetic analyst view for Morgan Stanley.
+R011,C11,2026-10-06,Buy,385,Medium,Synthetic analyst view for Barclays.
+R012,C12,2026-10-04,Hold,375,High,Synthetic analyst view for Bank of America.

@@ -1,0 +1,4 @@
+google-adk
+pandas>=2.0
+python-dotenv
+pytest

@@ -1,0 +1,13 @@
+company_id,name,aliases,sector,market_cap_bn,ceo,country
+C01,Apple,Apple Inc;AAPL,Technology,3000,A. Rivera,USA
+C02,JPMorgan,JPMorgan Chase;JPM;J.P. Morgan,Banking,550,B. Chen,USA
+C03,Goldman Sachs,Goldman;GS,Banking,150,C. Okafor,USA
+C04,Microsoft,Microsoft Corp;MSFT,Technology,3100,D. Larsen,USA
+C05,HSBC,HSBC Holdings,Banking,140,E. Novak,UK
+C06,Citigroup,Citi;Citibank,Banking,110,F. Alvarez,USA
+C07,Deutsche Bank,DB;Deutsche,Banking,45,G. Weber,Germany
+C08,BNP Paribas,BNP,Banking,80,H. Laurent,France
+C09,NVIDIA,NVIDIA Corp;NVDA,Technology,2800,I. Park,USA
+C10,Morgan Stanley,MS,Banking,160,J. Silva,USA
+C11,Barclays,Barclays plc,Banking,35,K. Evans,UK
+C12,Bank of America,BofA;BAC,Banking,300,L. Gupta,USA
